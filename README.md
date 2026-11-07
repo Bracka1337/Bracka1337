@@ -12,4 +12,4 @@ A web shop for car wheels and rims. My team of five built it at the Magebit Summ
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/sergejs-makarovs-661b75291/)
+[LinkedIn](https://www.linkedin.com/in/makar0v/)
